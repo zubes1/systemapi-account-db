@@ -29,6 +29,7 @@ Open a terminal and run the following command to clone the repository:
 ```bash
 git clone https://github.com/zubes1/systemapi-account-db.git
 cd systemapi-account-db
+```
 
 ## 2. Open the Project in Anypoint Studio
 
@@ -47,7 +48,7 @@ This project includes a `docker-compose.yml` file that will set up a MySQL datab
 
 ```bash
 docker-compose up -d
-
+```
 ### This command will:
 
 - Spin up a MySQL database container.
