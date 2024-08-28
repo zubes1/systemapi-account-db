@@ -1,0 +1,50 @@
+# Maven output directories
+/target/
+
+# Anypoint Studio specific files
+/.project
+/.classpath
+/.settings/
+/bin/
+/.mule/
+*.launch
+*.iml
+
+# Anypoint Studio workspace settings
+/.idea/
+/*.iml
+/.vscode/
+/.settings/
+/.DS_Store
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MuleSoft-generated folders
+/mule-artifacts/
+/overrides/
+
+# Dependency directories
+**/target/
+**/build/
+
+# IDE specific files
+/.vscode/
+*.swp
+
+# Environment-specific configuration files
+.env
+*.env
+
+# Backup files
+*.bak
+*.tmp
+
+# Secrets and credentials
+/secrets.env
+*.key
+*.crt
